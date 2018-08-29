@@ -1261,7 +1261,7 @@ img.ajax-loader {width:16px; height:16px;}
 	height:120px;
 }
 #contact .tel_toiawase .opentime {
-	z-index:999999;
+	/* z-index:999999; */
 	position:relative;
 	font-size:0.8rem;
 }
@@ -2779,7 +2779,7 @@ margin:1rem auto;
 	height:194px;
 	}
 	#contact .tel_toiawase .opentime {
-	z-index:999999;
+	/* z-index:999999; */
 	position:relative;
 	font-size:1.2rem;
 	}
